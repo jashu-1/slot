@@ -34,7 +34,7 @@ time.html
 <center>
 <img src="/static/logo.png" height="100" width="540">
 <table border="2" cellspacing="5" cellpading="5">
-<caption>SLOT TIMETABLE - YUVASHREE S(212223040251)</caption>
+<caption>SLOT TIMETABLE - Vishwaraja R(212221220060)</caption>
 <tr>
 <th bgcolor="pink">Day/Time</th>
 <th bgcolor="pink">Monday</th>
